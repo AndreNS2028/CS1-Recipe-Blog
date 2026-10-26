@@ -1,1 +1,42 @@
-
+body{
+    background:yellow;
+    color: blue;
+    font-family: sans-serif;
+}
+h1{
+    color:blue;
+    text-align: left;
+    font-size: 12px;
+}
+h2{
+    color: red;
+    font-size: 12px;
+}
+h3{
+    font-weight: 600;
+    font-size: 12px;
+}
+.viral-capsid-cake{
+    border: 2px solid black;
+    border-width: 10px;
+    border-style: bold;
+    border-color: blue;
+    padding: 15px;
+    margin: 20px 0;
+}
+.chickenpox-virus-vertical-cake{
+    border: 2px solid black;
+    border-width: 10px;
+    border-style: bold;
+    border-color: blue;
+    padding: 15px;
+    margin: 20px 0;
+}
+.covid-virus-chocolate-raspberry-cake{
+    border: 2px solid black;
+    border-width: 10px;
+    border-style: bold;
+    border-color: blue;
+    padding: 15px;
+    margin: 20px 0;
+}
